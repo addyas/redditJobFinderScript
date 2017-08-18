@@ -14,7 +14,8 @@ The internet is creepy. Embrace it.
 
  reddit = praw.Reddit(user_agent='Comment Extraction (by /u/USERNAME)',
                      client_id='CLIENT_ID', client_secret="CLIENT_SECRET",
-                     username='USERNAME')` ```
+                     username='USERNAME')`
+```
 
 **Bold** and _Italic_ and `Code` text
 
