@@ -6,16 +6,15 @@ This script takes a reddit username, and returns comments that may detail the us
 
 The internet is creepy. Embrace it. 
 
-```markdown
-Syntax highlighted code block
+
 
 ### How?
-
+```markdown
 `import praw
 
  reddit = praw.Reddit(user_agent='Comment Extraction (by /u/USERNAME)',
                      client_id='CLIENT_ID', client_secret="CLIENT_SECRET",
-                     username='USERNAME')`
+                     username='USERNAME')` ```
 
 **Bold** and _Italic_ and `Code` text
 
